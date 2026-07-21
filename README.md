@@ -79,12 +79,6 @@
 
 ---
 
-<!-- 6. PROFILE VIEWS (CENTERED) -->
-<h2 align="center">🐍 Contributions & Views</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaleyclarisse-ash&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-</p>
 <!-- 6. SNAKE CONTRIBUTION & PROFILE VIEWS (CENTERED) -->
 <h2 align="center">🐍 Contributions & Views</h2>
 
