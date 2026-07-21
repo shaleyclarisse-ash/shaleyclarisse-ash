@@ -57,7 +57,6 @@
 
 <h4 align="center">🚀 Frameworks & Databases</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
@@ -82,6 +81,16 @@
 
 <!-- 6. PROFILE VIEWS (CENTERED) -->
 <h2 align="center">🐍 Contributions & Views</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaleyclarisse-ash&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
+</p>
+<!-- 6. SNAKE CONTRIBUTION & PROFILE VIEWS (CENTERED) -->
+<h2 align="center">🐍 Contributions & Views</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shaleyclarisse-ash/shaleyclarisse-ash/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaleyclarisse-ash&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
