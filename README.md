@@ -79,12 +79,9 @@
 ---
 
 <!-- 6. SNAKE CONTRIBUTION & PROFILE VIEWS (CENTERED) -->
-<h2 align="center">🐍 Contributions & Views</h2>
+<h2 align="center">🐍 Contributions</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shaleyclarisse-ash/shaleyclarisse-ash/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaleyclarisse-ash&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-</p>
