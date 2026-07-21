@@ -3,27 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ff69b4,100:ff1493&height=220&section=header&text=Ashley%20Clarisse%20Alfonso&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=40&subtext=Full%20Stack%20Developer%20%C2%B7%20Software%20Engineer&subfontSize=18&subtextY=65&subtextColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
-<!-- 2. ABOUT ME SECTION WITH SIDE IMAGE -->
+<!-- 2. ABOUT ME SECTION -->
 ## 💜 About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <br />
-      Hi! I'm <b>Ashley</b>, a passionate Full Stack Developer from the Philippines.<br /><br />
-      I love building software systems that are not just functional, but genuinely <i>intelligent</i> and <i>scalable</i>.<br /><br />
-      <ul>
-        <li>🔭 Working on <b>Web & Mobile Applications</b></li>
-        <li>🤖 Interested in <b>Full-Stack Development & System Architecture</b></li>
-        <li>🌱 Currently exploring <b>Cloud Technologies & Modern Frameworks</b></li>
-        <li>💬 Talk to me about <b>Java, JavaScript & Database Design</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="100%" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+Hi! I'm **Ashley**, a passionate Full Stack Developer from the Philippines.<br /><br />
+I love building software systems that are not just functional, but genuinely *intelligent* and *scalable*.<br />
+
+* 🔭 Working on **Web & Mobile Applications**
+* 🤖 Interested in **Full-Stack Development & System Architecture**
+* 🌱 Currently exploring **Cloud Technologies & Modern Frameworks**
+* 💬 Talk to me about **Java, JavaScript & Database Design**
 
 ---
 
@@ -31,7 +20,7 @@
 ## 🌐 Find Me Here
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/your-username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -43,7 +32,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/your-username" target="_blank">
+  <a href="https://instagram.com/s.h.a.l.e.y.y_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
