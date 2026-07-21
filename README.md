@@ -4,7 +4,7 @@
 </p>
 
 <!-- 2. ABOUT ME SECTION -->
-🩷 About Me</h2>
+<h2> 🩷 About Me </h2>
 
 <p>
   Hi! I'm <b>Ashley Clarisse Alfonso</b>, an IT Student and aspiring Full Stack Developer.<br />
