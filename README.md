@@ -1,18 +1,89 @@
-<h1 align="center">Hi 👋, I'm Ashley Clarisse Alfonso</h1>
-<h3 align="center">A passionate full stack developer from Philippines</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaleyclarisse-ash&label=Profile%20views&color=0e75b6&style=flat" alt="shaleyclarisse-ash" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaleyclarisse-ash" alt="shaleyclarisse-ash" /></a> </p>
-
-- 📫 How to reach me **shaleyclarisse@gmail.com**
-
-- ⚡ Fun fact **I think I am pretty**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/s.h.a.l.e.y.y_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.h.a.l.e.y.y_" height="30" width="40" /></a>
+<!-- 1. HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=220&section=header&text=Ashley%20Clarisse%20Alfonso&fontSize=42&fontAlignY=40&subtext=Full%20Stack%20Developer%20%C2%B7%20Software%20Engineer&subfontSize=18&subtextY=65" width="100%" alt="Header Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<!-- 2. ABOUT ME SECTION WITH SIDE IMAGE -->
+## 💜 About Me
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <br />
+      Hi! I'm <b>Ashley</b>, a passionate Full Stack Developer from the Philippines.<br /><br />
+      I love building software systems that are not just functional, but genuinely <i>intelligent</i> and <i>scalable</i>.<br /><br />
+      <ul>
+        <li>🔭 Working on <b>Web & Mobile Applications</b></li>
+        <li>🤖 Interested in <b>Full-Stack Development & System Architecture</b></li>
+        <li>🌱 Currently exploring <b>Cloud Technologies & Modern Frameworks</b></li>
+        <li>💬 Talk to me about <b>Java, JavaScript & Database Design</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="100%" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- 3. FIND ME HERE / SOCIAL BADGES -->
+## 🌐 Find Me Here
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:shaleyclarisse@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/shaleyclarisse-ash">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/s.h.a.l.e.y.y_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<!-- 4. TECH STACK BADGES BY CATEGORY -->
+## 💻 Tech Stack
+
+#### 🌸 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### 🚀 Frameworks & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+---
+
+<!-- 5. GITHUB STATS CARDS -->
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaleyclarisse-ash&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaleyclarisse-ash&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+</p>
+
+---
+
+<!-- 6. SNAKE CONTRIBUTION GRAPH & PROFILE VIEWS -->
+## 🐍 Contributions & Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shaleyclarisse-ash&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
