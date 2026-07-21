@@ -1,6 +1,6 @@
-<!-- 1. HEADER BANNER -->
+<!-- 1. HEADER BANNER (PINK GRADIENT) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=220&section=header&text=Ashley%20Clarisse%20Alfonso&fontSize=42&fontAlignY=40&subtext=Full%20Stack%20Developer%20%C2%B7%20Software%20Engineer&subfontSize=18&subtextY=65" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ff69b4,100:ff1493&height=220&section=header&text=Ashley%20Clarisse%20Alfonso&fontSize=42&fontColor=ffffff&fontAlignY=40&subtext=Full%20Stack%20Developer%20%C2%B7%20Software%20Engineer&subfontSize=18&subtextY=65&subtextColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
 <!-- 2. ABOUT ME SECTION WITH SIDE IMAGE -->
@@ -14,9 +14,9 @@
       I love building software systems that are not just functional, but genuinely <i>intelligent</i> and <i>scalable</i>.<br /><br />
       <ul>
         <li>🔭 Working on <b>Web & Mobile Applications</b></li>
-        <li>🤖 Interested in <b>Full-Stack Development & System Architecture</b></li>
-        <li>🌱 Currently exploring <b>Cloud Technologies & Modern Frameworks</b></li>
-        <li>💬 Talk to me about <b>Java, JavaScript & Database Design</b></li>
+        <li>🤖 Interested in <b>Full-Stack Development & Machine Learning</b></li>
+        <li>🌱 Currently exploring <b>Web Development & System Architecture </b></li>
+        <li>💬 Talk to me about <b>Java</b></li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
@@ -31,7 +31,7 @@
 ## 🌐 Find Me Here
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/your-username" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -81,9 +81,9 @@
 
 ---
 
-<!-- 6. SNAKE CONTRIBUTION GRAPH & PROFILE VIEWS -->
+<!-- 6. PROFILE VIEWS -->
 ## 🐍 Contributions & Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shaleyclarisse-ash&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shaleyclarisse-ash&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views" />
 </p>
