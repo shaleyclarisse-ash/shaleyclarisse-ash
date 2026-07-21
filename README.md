@@ -6,13 +6,13 @@
 <!-- 2. ABOUT ME SECTION -->
 ## 💜 About Me
 
-Hi! I'm **Ashley**, a passionate Full Stack Developer from the Philippines.<br /><br />
+Hi! I'm **Ashley Clarisse Alfonso**, a passionate Full Stack Developer from the Philippines.<br /><br />
 I love building software systems that are not just functional, but genuinely *intelligent* and *scalable*.<br />
 
 * 🔭 Working on **Web & Mobile Applications**
-* 🤖 Interested in **Full-Stack Development & System Architecture**
-* 🌱 Currently exploring **Cloud Technologies & Modern Frameworks**
-* 💬 Talk to me about **Java, JavaScript & Database Design**
+* 🤖 Interested in **Full-Stack Development & Machine Learning**
+* 🌱 Currently exploring **System Architecture & Web Development**
+* 💬 Talk to me about **Java**
 
 ---
 
