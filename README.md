@@ -1,6 +1,6 @@
 <!-- 1. HEADER BANNER (PINK GRADIENT & CENTERED TEXT) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ff69b4,100:ff1493&height=220&section=header&text=Ashley%20Clarisse%20Alfonso&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=40&subtext=Full%20Stack%20Developer%20%C2%B7%20Software%20Engineer&subfontSize=18&subtextY=65&subtextColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ff69b4,100:ff1493&height=220&section=header&text=Ashley%20Clarisse%20Alfonso&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=40&subtext=Information%20Technology%20Student%20%C2%B7%20Aspiring%20Full%20Stack%20Developer&subfontSize=18&subtextY=65&subtextColor=ffffff" width="100%" alt="Header Banner" />
 </p>
 
 <!-- 2. ABOUT ME SECTION -->
