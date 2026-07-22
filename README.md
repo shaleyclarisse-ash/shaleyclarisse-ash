@@ -7,8 +7,8 @@
 <h2> 🩷 About Me </h2>
 
 <p>
-  Hi! I'm <b>Ashley Clarisse Alfonso</b>, an IT Student and aspiring Full Stack Developer.<br />
-  I love building software systems that are not just functional, but genuinely <i>intelligent</i> and <i>scalable</i>.
+  Hi! I'm <b>Ashley Clarisse Alfonso</b>, an IT Student and aspiring Full Stack Developer.💻<br />
+  Passionate about full-stack development, intelligent systems, and scalable architecture. Let’s connect and build something awesome!
 </p>
 
 <p>
